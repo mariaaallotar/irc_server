@@ -15,17 +15,17 @@ The project is done by me and
 - send and receive messages on channels and as private messages
 - regular and operator users
 - the following commands
-  ∗ KICK - Eject a client from the channel
-  ∗ INVITE - Invite a client to a channel
-  ∗ TOPIC - Change or view the channel topic
-  * PING - Used to find out the latency on the network
-  ∗ MODE - Change the channel’s mode:
-  · i: Set/remove Invite-only channel
-  · t: Set/remove the restrictions of the TOPIC command to channel operators
-  · k: Set/remove the channel key (password)
-  · o: Give/take channel operator privilege
-  · l: Set/remove the user limit to channel
-  * QUIT - Terminates the connection
+  - KICK - Eject a client from the channel
+  - INVITE - Invite a client to a channel
+  - TOPIC - Change or view the channel topic
+  - PING - Used to find out the latency on the network
+  - MODE - Change the channel’s mode:
+    - i: Set/remove Invite-only channel
+    - t: Set/remove the restrictions of the TOPIC command to channel operators
+    - k: Set/remove the channel key (password)
+    - o: Give/take channel operator privilege
+    - l: Set/remove the user limit to channel
+  - QUIT - Terminates the connection  
 
 - We did not create a client program and used IRSSI as our reference
 - We did not handle server-to-server communication
