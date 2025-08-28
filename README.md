@@ -2,8 +2,8 @@
 
 A server that manages Internet Relay Chat written in C++, allowing users to connect, join channels, and exchange real-time text messages.  
 
-The project is done by me and   
-- [Helmi Pirkola](https://github.com/hpirkola)  
+The project is done by me,   
+- [Helmi Pirkola](https://github.com/hpirkola) and  
 - [Milad Rahmat Abadi](https://github.com/miladrahmat)  
 
 ## Features
@@ -42,7 +42,7 @@ The project is done by me and
 
 ## My contribution
 
-Everybody in the team did a bit of everything. When we had the basic structure everybody implemented some commands. But to make creating new commands easy I created an interface for a generic command, ACommand, that was designed based on the behavioral design pattern: command pattern. This allowed us to handle commands as objects.  
+Everybody in the team did a bit of everything. When we were able to allow new connections, receive and send messages, then everybody implemented some commands. But to make creating new commands easy I created an interface for a generic command, ACommand, that was designed based on the behavioral design pattern: command pattern. This allowed us to handle commands as objects.  
 
 ## Technologies Used
 
@@ -51,5 +51,6 @@ Everybody in the team did a bit of everything. When we had the basic structure e
 ## What I learned
 
 - object orineted design
+- that object oriented programming is quite nice
 - following a protocol
 - that small commits are **very** nice when hunting a bug
