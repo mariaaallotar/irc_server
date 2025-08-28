@@ -30,6 +30,20 @@ The project is done by me,
 - We did not create a client program and used IRSSI as our reference
 - We did not handle server-to-server communication
 
+## Usage  
+### Running the server and connecting via irssi:  
+<img width="1231" height="417" alt="Screenshot of server and irssi" src="https://github.com/user-attachments/assets/c48812eb-0e79-4317-8ba3-4b67267a2dea" />
+
+### Connection established:  
+<img width="1576" height="736" alt="Screenshot of server and irssi" src="https://github.com/user-attachments/assets/4bf969c8-9b7d-4d0c-abb9-d9a54382c1d5" />
+
+### Joining a channel:  
+<img width="1546" height="598" alt="Screenshot of server and irssi" src="https://github.com/user-attachments/assets/9efe2201-1fab-449d-a0c2-a9e28326a651" />
+
+### Sending message to channel and checking channel modes:
+<img width="1247" height="509" alt="Screenshot of server and irssi" src="https://github.com/user-attachments/assets/a3726877-2fcb-4497-917d-64ca1f6b67a3" />
+
+
 ## Allowed external functions
 
 - everything in C++
