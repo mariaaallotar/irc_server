@@ -42,7 +42,7 @@ The project is done by me and
 
 ## My contribution
 
-Everybody in the team did a bit of everything, when we had the basic structure everybody implemented some commands. But to make creating new commands easy I created an interface for a generic command, ACommand, that was designed based on the behavioral design pattern: command pattern. This allowed us to handle commands as objects.  
+Everybody in the team did a bit of everything. When we had the basic structure everybody implemented some commands. But to make creating new commands easy I created an interface for a generic command, ACommand, that was designed based on the behavioral design pattern: command pattern. This allowed us to handle commands as objects.  
 
 ## Technologies Used
 
